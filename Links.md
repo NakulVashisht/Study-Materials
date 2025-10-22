@@ -37,8 +37,8 @@ Pandas :
 Pandas2 :
 <a href="https://colab.research.google.com/drive/141RRcwuoW8t9S1ZICY9qPiea1Ut1_4OS?usp=sharing" target="_blank">Click Here</a>
 
-Visualisation👇👇:
+Visualisation :
 <a href="https://colab.research.google.com/drive/140jkvkSYLSajP2VLtrkgjwzclaE7QypA?usp=sharing" target="_blank">Click Here</a>
 
-NumPy Handson👇👇:
+NumPy Handson :
 <a href="https://colab.research.google.com/drive/1CtNNEGnsScF93TntMuQcZNMOSZTrUI8S?usp=sharing" target="_blank">Click Here</a>
