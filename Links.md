@@ -42,3 +42,6 @@ Visualisation :
 
 NumPy Handson :
 <a href="https://colab.research.google.com/drive/1CtNNEGnsScF93TntMuQcZNMOSZTrUI8S?usp=sharing" target="_blank">Click Here</a>
+
+Pandas Handson :
+<a href="https://colab.research.google.com/drive/1CtbgPGhLpxqpnj7lxnf9yqZ8njsv4WGq?usp=sharing" target="_blank">Click Here</a>
