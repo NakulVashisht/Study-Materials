@@ -53,7 +53,7 @@ Visualisation Handson 2:
 <a href="https://colab.research.google.com/drive/1uNaHhcie7OpTzZEDcVclO-Ysnp7L_kyF?usp=sharing" target="_blank">Click Here</a>
 
 Python libraries :
-<a href="https://colab.research.google.com/drive/1wVnjEJeQ79TeSm64HZvrEj05CgSEr7dL?usp=sharing#scrollTo=X9iEePjYhdB0" target="_blank"></a>
+<a href="https://colab.research.google.com/drive/1wVnjEJeQ79TeSm64HZvrEj05CgSEr7dL?usp=sharing#scrollTo=X9iEePjYhdB0" target="_blank">Click Here</a>
 
 Seaborn Basics:
-<a href="https://colab.research.google.com/drive/1RQ7uXTozbHYEnxpdHNYCFgXRxXC3jZHD?usp=sharing" target="_blank"></a>
+<a href="https://colab.research.google.com/drive/1RQ7uXTozbHYEnxpdHNYCFgXRxXC3jZHD?usp=sharing" target="_blank">Click Here</a>
