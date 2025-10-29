@@ -48,3 +48,6 @@ Pandas Handson :
 
 Visualisation Handson :
 <a href="https://colab.research.google.com/drive/1rEyJZItAoo4vHACCmEc3Wf_FPqH03ohr?usp=sharing" target="_blank">Click Here</a>
+
+Visualisation Handson 2:
+<a href="https://colab.research.google.com/drive/1uNaHhcie7OpTzZEDcVclO-Ysnp7L_kyF?usp=sharing" target="_blank">Click Here</a>
