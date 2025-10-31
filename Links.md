@@ -60,3 +60,6 @@ Seaborn Basics:
 
 US honey Handson:
 <a href="https://colab.research.google.com/drive/1ddZ1gZKnqigJuyIjx6_1DfH5AS8Rj8hh?usp=sharing#scrollTo=71uubMbSyCcZ" target="_blank">Click Here</a>
+
+HR analytics handson:
+<a href="https://colab.research.google.com/drive/1RImKk4roQx2mBioXFEdOfpNxAyJCUj8z?usp=sharing" target="_blank">Click Here</a>
