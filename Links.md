@@ -63,3 +63,6 @@ US honey Handson:
 
 HR analytics handson:
 <a href="https://colab.research.google.com/drive/1RImKk4roQx2mBioXFEdOfpNxAyJCUj8z?usp=sharing" target="_blank">Click Here</a>
+
+Statistics and probability:
+<a href="https://colab.research.google.com/drive/15x5wfJeequRKa19VlLqPR8hLTbRtD60m" target="_blank">Click Here</a>
