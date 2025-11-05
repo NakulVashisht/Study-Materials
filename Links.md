@@ -64,5 +64,8 @@ US honey Handson:
 HR analytics handson:
 <a href="https://colab.research.google.com/drive/1RImKk4roQx2mBioXFEdOfpNxAyJCUj8z?usp=sharing" target="_blank">Click Here</a>
 
-Statistics and probability:
+Statistics and probability(Niyati Mam):
 <a href="https://colab.research.google.com/drive/15x5wfJeequRKa19VlLqPR8hLTbRtD60m" target="_blank">Click Here</a>
+
+Statistics and probability(Aryan Sir):
+<a href="https://colab.research.google.com/drive/1XlqhI5hxe73iojbsIZCsu0WT11SPQZ6Z?usp=sharing#scrollTo=StAnv2HW-3Lo" target="_blank">Click Here</a>
