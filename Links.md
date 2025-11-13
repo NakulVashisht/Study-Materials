@@ -68,4 +68,4 @@ Statistics and probability  :
 <a href="https://colab.research.google.com/drive/1XlqhI5hxe73iojbsIZCsu0WT11SPQZ6Z?usp=sharing#scrollTo=StAnv2HW-3Lo" target="_blank">Click Here</a>
 
 AirBnB Handson:
-<a href="https://colab.research.google.com/drive/1b8SvgfQk7aneIXEBsCtaXxbXe8lvJ4mE?usp=sharing" target="_blank">Click Here</a
+<a href="https://colab.research.google.com/drive/1b8SvgfQk7aneIXEBsCtaXxbXe8lvJ4mE?usp=sharing" target="_blank">Click Here</a>
