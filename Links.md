@@ -69,3 +69,6 @@ Statistics and probability  :
 
 AirBnB Handson:
 <a href="https://colab.research.google.com/drive/1b8SvgfQk7aneIXEBsCtaXxbXe8lvJ4mE?usp=sharing" target="_blank">Click Here</a>
+
+Inferential Stats:
+<a href="https://drive.google.com/drive/u/0/folders/15sPS4FSIcCH8wRyu5cVvaLaL0JNwlbPU" target="_blank">Click Here</a>
