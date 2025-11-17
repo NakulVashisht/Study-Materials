@@ -72,3 +72,6 @@ AirBnB Handson:
 
 Inferential Stats:
 <a href="https://drive.google.com/drive/u/0/folders/15sPS4FSIcCH8wRyu5cVvaLaL0JNwlbPU" target="_blank">Click Here</a>
+
+Inferential Stats:
+<a href="https://colab.research.google.com/drive/1Vimf5gGw1R8pm42TDbLRC94ailcKOQ97#scrollTo=C38evPB53xyy" target="_blank">Click Here</a>
