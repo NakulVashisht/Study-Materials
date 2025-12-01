@@ -83,4 +83,4 @@ Inferential Stats Handson people dataset:
 <a href="https://colab.research.google.com/drive/14wYkxYWrk2401G58pLvOg9IO7yazUb6D?usp=sharing" target="_blank">Click Here</a>
 
 Linear Algebra Handson:
-<a href="https://colab.research.google.com/drive/14wYkxYWrk2401G58pLvOg9IO7yazUb6D?usp=sharing" target="_blank">Click Here</a>
+<a href="https://colab.research.google.com/drive/1TOxkeTqN7A_0aRxwn6RvX5usTpfP0g3C?usp=sharing" target="_blank">Click Here</a>
