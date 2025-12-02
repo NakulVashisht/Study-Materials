@@ -76,6 +76,9 @@ Inferential Stats:
 Inferential Stats:
 <a href="https://colab.research.google.com/drive/1Vimf5gGw1R8pm42TDbLRC94ailcKOQ97#scrollTo=C38evPB53xyy" target="_blank">Click Here</a>
 
+Inferential Stats:
+<a href="https://colab.research.google.com/drive/1p_sHCzCeo2eBr5nHtP93wFSCI68hd8a2#scrollTo=DDvzRx5R1ZFZ" target="_blank">Click Here</a>
+
 Inferential Stats Handson purchase dataset:
 <a href="https://colab.research.google.com/drive/13R0VdAkNl9y9wtczKL57jII1aix-7l2a?usp=sharing" target="_blank">Click Here</a>
 
