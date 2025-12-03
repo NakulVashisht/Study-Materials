@@ -82,6 +82,8 @@ Hypothesis Testing:
 Inferential Stats Handson purchase dataset:
 <a href="https://colab.research.google.com/drive/13R0VdAkNl9y9wtczKL57jII1aix-7l2a?usp=sharing" target="_blank">Click Here</a>
 
+EDA case study:
+<a href="https://colab.research.google.com/drive/16OY98rzGBQezQQJIF5WdqFsXvkIjGcq3?usp=sharing" target="_blank">Click Here</a>
 Inferential Stats Handson people dataset:
 <a href="https://colab.research.google.com/drive/14wYkxYWrk2401G58pLvOg9IO7yazUb6D?usp=sharing" target="_blank">Click Here</a>
 
