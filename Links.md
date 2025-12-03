@@ -85,6 +85,9 @@ Inferential Stats Handson purchase dataset:
 Inferential Stats Handson people dataset:
 <a href="https://colab.research.google.com/drive/14wYkxYWrk2401G58pLvOg9IO7yazUb6D?usp=sharing" target="_blank">Click Here</a>
 
+Linear Algebra theory:
+<a href="https://drive.google.com/drive/u/0/folders/1Wv0Y4S4PF6RA2FeC7jTyqMj3hl82G64w" target="_blank">Click Here</a>
+
 Linear Algebra Handson:
 <a href="https://colab.research.google.com/drive/1TOxkeTqN7A_0aRxwn6RvX5usTpfP0g3C?usp=sharing" target="_blank">Click Here</a>
 
