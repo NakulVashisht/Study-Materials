@@ -96,3 +96,6 @@ Linear Algebra Handson:
 
 EDA case study:
 <a href="https://colab.research.google.com/drive/16OY98rzGBQezQQJIF5WdqFsXvkIjGcq3?usp=sharing" target="_blank">Click Here</a>
+
+EDA case study commodity:
+<a href="https://colab.research.google.com/drive/1uQTIvJmCCkvvrBHFqo-VsAdKbZulIVc-?usp=sharing#scrollTo=x0FrKOF1oIRr" target="_blank">Click Here</a>
