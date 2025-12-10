@@ -99,3 +99,6 @@ EDA case study:
 
 EDA case study commodity:
 <a href="https://colab.research.google.com/drive/1uQTIvJmCCkvvrBHFqo-VsAdKbZulIVc-?usp=sharing#scrollTo=x0FrKOF1oIRr" target="_blank">Click Here</a>
+
+EDA case study purchase:
+<a href="https://colab.research.google.com/drive/1LQTzByu8WLj6kM1VtIB4A_lF3wqEtjU8?usp=sharing" target="_blank">Click Here</a>
