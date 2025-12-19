@@ -102,3 +102,6 @@ EDA case study commodity:
 
 EDA case study purchase:
 <a href="https://colab.research.google.com/drive/1LQTzByu8WLj6kM1VtIB4A_lF3wqEtjU8?usp=sharing" target="_blank">Click Here</a>
+
+Linear Regression handson:
+<a href="https://colab.research.google.com/drive/1Xow5HtAYYCyLxEU8UT7FRBGnx1028sEf?usp=sharing" target="_blank">Click Here</a>
