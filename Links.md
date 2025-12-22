@@ -105,3 +105,6 @@ EDA case study purchase:
 
 Linear Regression handson:
 <a href="https://colab.research.google.com/drive/1Xow5HtAYYCyLxEU8UT7FRBGnx1028sEf?usp=sharing" target="_blank">Click Here</a>
+
+Logistic Regression drive:
+<a href="https://drive.google.com/drive/folders/1ZQSyUD2IDHUcL3ZzuJYqWdO-oU0fVbdZ" target="_blank">Click Here</a>
