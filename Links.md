@@ -114,3 +114,6 @@ Logistic Regression drive:
 
 desmos graph link:
 <a href="https://www.desmos.com/calculator/1jkygr13el" target="_blank">Click Here</a>
+
+Logistic Regression handson:
+<a href="https://colab.research.google.com/drive/11I8eaogPLRJn2Wm5eaE-5-En0slu7kUt?usp=sharing#scrollTo=utJRAO0OTPPK" target="_blank">Click Here</a>
