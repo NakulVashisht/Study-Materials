@@ -118,5 +118,5 @@ desmos graph link:
 Logistic Regression handson:
 <a href="https://colab.research.google.com/drive/11I8eaogPLRJn2Wm5eaE-5-En0slu7kUt?usp=sharing#scrollTo=utJRAO0OTPPK" target="_blank">Click Here</a>
 
-Logistic Regression handson:
+Decision tree drive:
 <a href="https://drive.google.com/drive/folders/1zY8qygB10RVpSz9fHGSBg4UkvqPJN2HG" target="_blank">Click Here</a>
