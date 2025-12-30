@@ -120,3 +120,10 @@ Logistic Regression handson:
 
 Decision tree drive:
 <a href="https://drive.google.com/drive/folders/1zY8qygB10RVpSz9fHGSBg4UkvqPJN2HG" target="_blank">Click Here</a>
+
+Customer churn problem statement:
+<a href="https://docs.google.com/document/d/1T7zcGL97Yp2gv7NPC7555OT_qUvDWe89gkxyvKkHfgg/edit?tab=t.0" target="_blank">Click Here</a>
+
+Customer churn problem handson:
+<a href="https://colab.research.google.com/drive/1DJgOriuHsN32aAza2EhYzQYbx1QZDeG6?usp=sharing" target="_blank">Click Here</a>
+
