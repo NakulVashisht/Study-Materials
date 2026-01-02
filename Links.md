@@ -127,3 +127,5 @@ Customer churn problem statement:
 Customer churn problem handson:
 <a href="https://colab.research.google.com/drive/1DJgOriuHsN32aAza2EhYzQYbx1QZDeG6?usp=sharing" target="_blank">Click Here</a>
 
+Decision Tree handson:
+<a href="https://colab.research.google.com/drive/11Us5_terUeb6IJJ86iwsHPOmAXNC_hIz?usp=sharing#scrollTo=9BOOn6tMfx70" target="_blank">Click Here</a>
