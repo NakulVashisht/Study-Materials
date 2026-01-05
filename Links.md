@@ -131,4 +131,4 @@ Decision Tree handson:
 <a href="https://colab.research.google.com/drive/11Us5_terUeb6IJJ86iwsHPOmAXNC_hIz?usp=sharing#scrollTo=9BOOn6tMfx70" target="_blank">Click Here</a>
 
 census data handson:
-<a href="https://colab.research.google.com/drive/11Us5_terUeb6IJJ86iwsHPOmAXNC_hIz?usp=sharing#scrollTo=9BOOn6tMfx70" target="_blank">Click Here</a>
+<a href="https://colab.research.google.com/drive/1O9bliDvWPu6TXwZtTFo5nL73d54MC6rl?usp=sharing#scrollTo=ByNX-ZQH-T1C" target="_blank">Click Here</a>
