@@ -132,3 +132,6 @@ Decision Tree handson:
 
 census data handson:
 <a href="https://colab.research.google.com/drive/1O9bliDvWPu6TXwZtTFo5nL73d54MC6rl?usp=sharing#scrollTo=ByNX-ZQH-T1C" target="_blank">Click Here</a>
+
+Random forest drive:
+<a href="https://drive.google.com/drive/folders/1RwH3xpwIg95xOs7FR2NpRJuydBpXphSb" target="_blank">Click Here</a>
