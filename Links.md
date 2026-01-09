@@ -138,3 +138,6 @@ Random forest drive:
 
 Random forest handson:
 <a href="https://colab.research.google.com/drive/1mTRrZO8KHG2RmdmL25FY018FNgkE3v3x?usp=sharing" target="_blank">Click Here</a>
+
+Decision Tree handson(Aisha mam):
+<a href="https://colab.research.google.com/drive/1mTRrZO8KHG2RmdmL25FY018FNgkE3v3x?usp=sharing" target="_blank">Click Here</a>
