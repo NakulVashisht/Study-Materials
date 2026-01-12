@@ -141,3 +141,6 @@ Random forest handson:
 
 Decision Tree handson(Aisha mam):
 <a href="https://colab.research.google.com/drive/1sRfXStPJxXxrZ-vDx9DBr6uC1r8e642F?usp=sharing" target="_blank">Click Here</a>
+
+Clustering k-means drive:
+<a href="https://drive.google.com/drive/folders/10_Mnmko7d8uXho4Wb8EK_cysZBI7hbfj" target="_blank">Click Here</a>
