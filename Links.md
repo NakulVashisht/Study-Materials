@@ -144,3 +144,6 @@ Decision Tree handson(Aisha mam):
 
 Clustering k-means drive:
 <a href="https://drive.google.com/drive/folders/10_Mnmko7d8uXho4Wb8EK_cysZBI7hbfj" target="_blank">Click Here</a>
+
+Clustering k-means handson:
+<a href="https://colab.research.google.com/drive/1sphD5qVr0psvei8vG45OflflHhNE_vvT?usp=sharing" target="_blank">Click Here</a>
