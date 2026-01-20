@@ -1,155 +1,101 @@
-Linux doc file (notes):
-<a href="https://docs.google.com/document/d/1KuoAdLJd8XFcNMltJBsOWKKMedFCb9aF9xUuaNZ-JEc/edit?tab=t.0" target="_blank">Click Here</a>
+PCA collab: <a href="https://colab.research.google.com/drive/1TwchqNCGOme_XdaLdhfpi3vVTuHxQxq7#scrollTo=5UcJIeF85N-e" target="_blank">Click Here</a>
 
-Git doc file(notes) :
-<a href="https://docs.google.com/document/d/174b70tNV-loufr2P-AErszeJZuBo4pJjDtpAieK1AV8/edit?tab=t.0" target="_blank">Click Here</a>
+PCA drive: <a href="https://drive.google.com/drive/u/0/folders/14k5Bqa5Kit3uHr8QOSRPRQcXL6ou8I3i" target="_blank">Click Here</a>
 
-File created by Niyati Mam  (Python basics):
-<a href="https://colab.research.google.com/drive/1sv4b8IsVh85nunu-ePqvigVjeyWlSskd#scrollTo=_1MHBHfH6nDi" target="_blank">Click Here</a>
+Clustering k-means handson: <a href="https://colab.research.google.com/drive/1sphD5qVr0psvei8vG45OflflHhNE_vvT?usp=sharing" target="_blank">Click Here</a>
 
-File created by Lavanya Mam (Python basics):
-<a href="https://colab.research.google.com/drive/1N8LNlrTuOZhfXAclMBn_E3OO_R5P_h_5?usp=sharing#scrollTo=Fske6lAf_28W" target="_blank">Click Here</a>
+Clustering k-means drive: <a href="https://drive.google.com/drive/folders/10_Mnmko7d8uXho4Wb8EK_cysZBI7hbfj" target="_blank">Click Here</a>
 
-Python Basics (Handson):
-<a href="https://colab.research.google.com/drive/1osv8dHre2oAEJBQsx8Rm5dkSb-5QB3fy" target="_blank">Click Here</a>
+Decision Tree handson(Aisha mam): <a href="https://colab.research.google.com/drive/1sRfXStPJxXxrZ-vDx9DBr6uC1r8e642F?usp=sharing" target="_blank">Click Here</a>
 
-OOPs (notes):
-<a href="https://colab.research.google.com/drive/1KYFaNGbY1bX0dV6m4nF7tMfz4RXJ9tVw#scrollTo=Nmr8YRK0A0eN" target="_blank">Click Here</a>
+Random forest handson: <a href="https://colab.research.google.com/drive/1mTRrZO8KHG2RmdmL25FY018FNgkE3v3x?usp=sharing" target="_blank">Click Here</a>
 
-OOPs (Handson):
-<a href="https://colab.research.google.com/drive/1d6wb02VIijGNeq7Dor2IXVVtwRwd3ECq" target="_blank">Click Here</a>
+Random forest drive: <a href="https://drive.google.com/drive/folders/1RwH3xpwIg95xOs7FR2NpRJuydBpXphSb" target="_blank">Click Here</a>
 
-DSA-1 :
-<a href="https://colab.research.google.com/drive/10KrghxtJNcrfzOCrqjljfWwerqTMFSC8?usp=sharing#scrollTo=tTYKEYyX3VIl" target="_blank">Click Here</a>
+census data handson: <a href="https://colab.research.google.com/drive/1O9bliDvWPu6TXwZtTFo5nL73d54MC6rl?usp=sharing#scrollTo=ByNX-ZQH-T1C" target="_blank">Click Here</a>
 
-DSA-2 :
-<a href="https://colab.research.google.com/drive/17RDR4r2fGwoLZoYbSNL1emo0FOxr812A?usp=sharing#scrollTo=QaXa2nvROsiQ" target="_blank">Click Here</a>
+Decision Tree handson: <a href="https://colab.research.google.com/drive/11Us5_terUeb6IJJ86iwsHPOmAXNC_hIz?usp=sharing#scrollTo=9BOOn6tMfx70" target="_blank">Click Here</a>
 
-DSA-3 :
-<a href="https://colab.research.google.com/drive/1mGGeNIgVO9S1zrWGqNF3Zca-UJgeEa0N?usp=sharing#scrollTo=M4MvoH2eV0Pt" target="_blank">Click Here</a>
+Customer churn problem handson: <a href="https://colab.research.google.com/drive/1DJgOriuHsN32aAza2EhYzQYbx1QZDeG6?usp=sharing" target="_blank">Click Here</a>
 
-NumPy :
-<a href="https://colab.research.google.com/drive/10ZHSIhcu0q0yAMWRJc__ZwnBrXLSGDPj?usp=sharing" target="_blank">Click Here</a>
+Customer churn problem statement: <a href="https://docs.google.com/document/d/1T7zcGL97Yp2gv7NPC7555OT_qUvDWe89gkxyvKkHfgg/edit?tab=t.0" target="_blank">Click Here</a>
 
-Pandas :
-<a href="https://colab.research.google.com/drive/1jIf5_ChMdxloPf7RV_FiOQFoItxno2AH?usp=sharing" target="_blank">Click Here</a>
+Decision tree drive: <a href="https://drive.google.com/drive/folders/1zY8qygB10RVpSz9fHGSBg4UkvqPJN2HG" target="_blank">Click Here</a>
 
-Pandas2 :
-<a href="https://colab.research.google.com/drive/141RRcwuoW8t9S1ZICY9qPiea1Ut1_4OS?usp=sharing" target="_blank">Click Here</a>
+Logistic Regression handson: <a href="https://colab.research.google.com/drive/11I8eaogPLRJn2Wm5eaE-5-En0slu7kUt?usp=sharing#scrollTo=utJRAO0OTPPK" target="_blank">Click Here</a>
 
-Visualisation :
-<a href="https://colab.research.google.com/drive/140jkvkSYLSajP2VLtrkgjwzclaE7QypA?usp=sharing" target="_blank">Click Here</a>
+desmos graph link: <a href="https://www.desmos.com/calculator/1jkygr13el" target="_blank">Click Here</a>
 
-NumPy Handson :
-<a href="https://colab.research.google.com/drive/1CtNNEGnsScF93TntMuQcZNMOSZTrUI8S?usp=sharing" target="_blank">Click Here</a>
+Logistic Regression drive: <a href="https://drive.google.com/drive/folders/1ZQSyUD2IDHUcL3ZzuJYqWdO-oU0fVbdZ" target="_blank">Click Here</a>
 
-Pandas Handson :
-<a href="https://colab.research.google.com/drive/1CtbgPGhLpxqpnj7lxnf9yqZ8njsv4WGq?usp=sharing" target="_blank">Click Here</a>
+Linear Regression handson: <a href="https://colab.research.google.com/drive/1Xow5HtAYYCyLxEU8UT7FRBGnx1028sEf?usp=sharing" target="_blank">Click Here</a>
 
-Visualisation Handson :
-<a href="https://colab.research.google.com/drive/1rEyJZItAoo4vHACCmEc3Wf_FPqH03ohr?usp=sharing" target="_blank">Click Here</a>
+Linear Regression drive: <a href="https://drive.google.com/drive/folders/1br6Aevc4MfAGrYhvsd5oODX-EgjWhzbu" target="_blank">Click Here</a>
 
-Visualisation Handson 2:
-<a href="https://colab.research.google.com/drive/1uNaHhcie7OpTzZEDcVclO-Ysnp7L_kyF?usp=sharing" target="_blank">Click Here</a>
+EDA case study purchase: <a href="https://colab.research.google.com/drive/1LQTzByu8WLj6kM1VtIB4A_lF3wqEtjU8?usp=sharing" target="_blank">Click Here</a>
 
-Python libraries :
-<a href="https://colab.research.google.com/drive/1wVnjEJeQ79TeSm64HZvrEj05CgSEr7dL?usp=sharing#scrollTo=X9iEePjYhdB0" target="_blank">Click Here</a>
+EDA case study commodity: <a href="https://colab.research.google.com/drive/1uQTIvJmCCkvvrBHFqo-VsAdKbZulIVc-?usp=sharing#scrollTo=x0FrKOF1oIRr" target="_blank">Click Here</a>
 
-Seaborn Basics:
-<a href="https://colab.research.google.com/drive/1RQ7uXTozbHYEnxpdHNYCFgXRxXC3jZHD?usp=sharing" target="_blank">Click Here</a>
+EDA case study case study: <a href="https://colab.research.google.com/drive/16OY98rzGBQezQQJIF5WdqFsXvkIjGcq3?usp=sharing" target="_blank">Click Here</a>
 
-US honey Handson:
-<a href="https://colab.research.google.com/drive/1ddZ1gZKnqigJuyIjx6_1DfH5AS8Rj8hh?usp=sharing#scrollTo=71uubMbSyCcZ" target="_blank">Click Here</a>
+Linear Algebra Handson: <a href="https://colab.research.google.com/drive/1TOxkeTqN7A_0aRxwn6RvX5usTpfP0g3C?usp=sharing" target="_blank">Click Here</a>
 
-HR analytics handson:
-<a href="https://colab.research.google.com/drive/1RImKk4roQx2mBioXFEdOfpNxAyJCUj8z?usp=sharing" target="_blank">Click Here</a>
+Linear Algebra and ML books: <a href="https://drive.google.com/drive/folders/1ErREpgzHqmUVKQSFB-F90qihMo8VYOJP" target="_blank">Click Here</a>
 
-Statistics and probability  :
-<a href="https://colab.research.google.com/drive/1XlqhI5hxe73iojbsIZCsu0WT11SPQZ6Z?usp=sharing#scrollTo=StAnv2HW-3Lo" target="_blank">Click Here</a>
+Linear Algebra theory: <a href="https://drive.google.com/drive/u/0/folders/1Wv0Y4S4PF6RA2FeC7jTyqMj3hl82G64w" target="_blank">Click Here</a>
 
-AirBnB Handson:
-<a href="https://colab.research.google.com/drive/1b8SvgfQk7aneIXEBsCtaXxbXe8lvJ4mE?usp=sharing" target="_blank">Click Here</a>
+Inferential Stats Handson people dataset: <a href="https://colab.research.google.com/drive/14wYkxYWrk2401G58pLvOg9IO7yazUb6D?usp=sharing" target="_blank">Click Here</a>
 
-Inferential Stats drive:
-<a href="https://drive.google.com/drive/u/0/folders/15sPS4FSIcCH8wRyu5cVvaLaL0JNwlbPU" target="_blank">Click Here</a>
+Inferential Stats Handson purchase dataset: <a href="https://colab.research.google.com/drive/13R0VdAkNl9y9wtczKL57jII1aix-7l2a?usp=sharing" target="_blank">Click Here</a>
 
-Inferential Stats:
-<a href="https://colab.research.google.com/drive/1Vimf5gGw1R8pm42TDbLRC94ailcKOQ97#scrollTo=C38evPB53xyy" target="_blank">Click Here</a>
+Hypothesis Testing: <a href="https://colab.research.google.com/drive/1p_sHCzCeo2eBr5nHtP93wFSCI68hd8a2#scrollTo=DDvzRx5R1ZFZ" target="_blank">Click Here</a>
 
-Hypothesis Testing:
-<a href="https://colab.research.google.com/drive/1p_sHCzCeo2eBr5nHtP93wFSCI68hd8a2#scrollTo=DDvzRx5R1ZFZ" target="_blank">Click Here</a>
+Inferential Stats: <a href="https://colab.research.google.com/drive/1Vimf5gGw1R8pm42TDbLRC94ailcKOQ97#scrollTo=C38evPB53xyy" target="_blank">Click Here</a>
 
-Inferential Stats Handson purchase dataset:
-<a href="https://colab.research.google.com/drive/13R0VdAkNl9y9wtczKL57jII1aix-7l2a?usp=sharing" target="_blank">Click Here</a>
+Inferential Stats drive: <a href="https://drive.google.com/drive/u/0/folders/15sPS4FSIcCH8wRyu5cVvaLaL0JNwlbPU" target="_blank">Click Here</a>
 
-Inferential Stats Handson people dataset:
-<a href="https://colab.research.google.com/drive/14wYkxYWrk2401G58pLvOg9IO7yazUb6D?usp=sharing" target="_blank">Click Here</a>
+AirBnB Handson: <a href="https://colab.research.google.com/drive/1b8SvgfQk7aneIXEBsCtaXxbXe8lvJ4mE?usp=sharing" target="_blank">Click Here</a>
 
-Linear Algebra theory:
-<a href="https://drive.google.com/drive/u/0/folders/1Wv0Y4S4PF6RA2FeC7jTyqMj3hl82G64w" target="_blank">Click Here</a>
+Statistics and probability : <a href="https://colab.research.google.com/drive/1XlqhI5hxe73iojbsIZCsu0WT11SPQZ6Z?usp=sharing#scrollTo=StAnv2HW-3Lo" target="_blank">Click Here</a>
 
-Linear Algebra and ML books:
-<a href="https://drive.google.com/drive/folders/1ErREpgzHqmUVKQSFB-F90qihMo8VYOJP" target="_blank">Click Here</a>
+HR analytics handson: <a href="https://colab.research.google.com/drive/1RImKk4roQx2mBioXFEdOfpNxAyJCUj8z?usp=sharing" target="_blank">Click Here</a>
 
-Linear Algebra Handson:
-<a href="https://colab.research.google.com/drive/1TOxkeTqN7A_0aRxwn6RvX5usTpfP0g3C?usp=sharing" target="_blank">Click Here</a>
+US honey Handson: <a href="https://colab.research.google.com/drive/1ddZ1gZKnqigJuyIjx6_1DfH5AS8Rj8hh?usp=sharing#scrollTo=71uubMbSyCcZ" target="_blank">Click Here</a>
 
-EDA case study:
-<a href="https://colab.research.google.com/drive/16OY98rzGBQezQQJIF5WdqFsXvkIjGcq3?usp=sharing" target="_blank">Click Here</a>
+Seaborn Basics: <a href="https://colab.research.google.com/drive/1RQ7uXTozbHYEnxpdHNYCFgXRxXC3jZHD?usp=sharing" target="_blank">Click Here</a>
 
-EDA case study commodity:
-<a href="https://colab.research.google.com/drive/1uQTIvJmCCkvvrBHFqo-VsAdKbZulIVc-?usp=sharing#scrollTo=x0FrKOF1oIRr" target="_blank">Click Here</a>
+Python libraries : <a href="https://colab.research.google.com/drive/1wVnjEJeQ79TeSm64HZvrEj05CgSEr7dL?usp=sharing#scrollTo=X9iEePjYhdB0" target="_blank">Click Here</a>
 
-EDA case study purchase:
-<a href="https://colab.research.google.com/drive/1LQTzByu8WLj6kM1VtIB4A_lF3wqEtjU8?usp=sharing" target="_blank">Click Here</a>
+Visualisation Handson 2: <a href="https://colab.research.google.com/drive/1uNaHhcie7OpTzZEDcVclO-Ysnp7L_kyF?usp=sharing" target="_blank">Click Here</a>
 
-Linear Regression drive:
-<a href="https://drive.google.com/drive/folders/1br6Aevc4MfAGrYhvsd5oODX-EgjWhzbu" target="_blank">Click Here</a>
+Visualisation Handson : <a href="https://colab.research.google.com/drive/1rEyJZItAoo4vHACCmEc3Wf_FPqH03ohr?usp=sharing" target="_blank">Click Here</a>
 
-Linear Regression handson:
-<a href="https://colab.research.google.com/drive/1Xow5HtAYYCyLxEU8UT7FRBGnx1028sEf?usp=sharing" target="_blank">Click Here</a>
+NumPy Handson : <a href="https://colab.research.google.com/drive/1CtNNEGnsScF93TntMuQcZNMOSZTrUI8S?usp=sharing" target="_blank">Click Here</a>
 
-Logistic Regression drive:
-<a href="https://drive.google.com/drive/folders/1ZQSyUD2IDHUcL3ZzuJYqWdO-oU0fVbdZ" target="_blank">Click Here</a>
+Visualisation : <a href="https://colab.research.google.com/drive/140jkvkSYLSajP2VLtrkgjwzclaE7QypA?usp=sharing" target="_blank">Click Here</a>
 
-desmos graph link:
-<a href="https://www.desmos.com/calculator/1jkygr13el" target="_blank">Click Here</a>
+Pandas2 : <a href="https://colab.research.google.com/drive/141RRcwuoW8t9S1ZICY9qPiea1Ut1_4OS?usp=sharing" target="_blank">Click Here</a>
 
-Logistic Regression handson:
-<a href="https://colab.research.google.com/drive/11I8eaogPLRJn2Wm5eaE-5-En0slu7kUt?usp=sharing#scrollTo=utJRAO0OTPPK" target="_blank">Click Here</a>
+Pandas : <a href="https://colab.research.google.com/drive/1jIf5_ChMdxloPf7RV_FiOQFoItxno2AH?usp=sharing" target="_blank">Click Here</a>
 
-Decision tree drive:
-<a href="https://drive.google.com/drive/folders/1zY8qygB10RVpSz9fHGSBg4UkvqPJN2HG" target="_blank">Click Here</a>
+NumPy : <a href="https://colab.research.google.com/drive/10ZHSIhcu0q0yAMWRJc__ZwnBrXLSGDPj?usp=sharing" target="_blank">Click Here</a>
 
-Customer churn problem statement:
-<a href="https://docs.google.com/document/d/1T7zcGL97Yp2gv7NPC7555OT_qUvDWe89gkxyvKkHfgg/edit?tab=t.0" target="_blank">Click Here</a>
+DSA-3 : <a href="https://colab.research.google.com/drive/1mGGeNIgVO9S1zrWGqNF3Zca-UJgeEa0N?usp=sharing#scrollTo=M4MvoH2eV0Pt" target="_blank">Click Here</a>
 
-Customer churn problem handson:
-<a href="https://colab.research.google.com/drive/1DJgOriuHsN32aAza2EhYzQYbx1QZDeG6?usp=sharing" target="_blank">Click Here</a>
+DSA-2 : <a href="https://colab.research.google.com/drive/17RDR4r2fGwoLZoYbSNL1emo0FOxr812A?usp=sharing#scrollTo=QaXa2nvROsiQ" target="_blank">Click Here</a>
 
-Decision Tree handson:
-<a href="https://colab.research.google.com/drive/11Us5_terUeb6IJJ86iwsHPOmAXNC_hIz?usp=sharing#scrollTo=9BOOn6tMfx70" target="_blank">Click Here</a>
+DSA-1 : <a href="https://colab.research.google.com/drive/10KrghxtJNcrfzOCrqjljfWwerqTMFSC8?usp=sharing#scrollTo=tTYKEYyX3VIl" target="_blank">Click Here</a>
 
-census data handson:
-<a href="https://colab.research.google.com/drive/1O9bliDvWPu6TXwZtTFo5nL73d54MC6rl?usp=sharing#scrollTo=ByNX-ZQH-T1C" target="_blank">Click Here</a>
+OOPs (Handson): <a href="https://colab.research.google.com/drive/1d6wb02VIijGNeq7Dor2IXVVtwRwd3ECq" target="_blank">Click Here</a>
 
-Random forest drive:
-<a href="https://drive.google.com/drive/folders/1RwH3xpwIg95xOs7FR2NpRJuydBpXphSb" target="_blank">Click Here</a>
+OOPs (notes): <a href="https://colab.research.google.com/drive/1KYFaNGbY1bX0dV6m4nF7tMfz4RXJ9tVw#scrollTo=Nmr8YRK0A0eN" target="_blank">Click Here</a>
 
-Random forest handson:
-<a href="https://colab.research.google.com/drive/1mTRrZO8KHG2RmdmL25FY018FNgkE3v3x?usp=sharing" target="_blank">Click Here</a>
+Python Basics (Handson): <a href="https://colab.research.google.com/drive/1osv8dHre2oAEJBQsx8Rm5dkSb-5QB3fy" target="_blank">Click Here</a>
 
-Decision Tree handson(Aisha mam):
-<a href="https://colab.research.google.com/drive/1sRfXStPJxXxrZ-vDx9DBr6uC1r8e642F?usp=sharing" target="_blank">Click Here</a>
+File created by Lavanya Mam (Python basics): <a href="https://colab.research.google.com/drive/1N8LNlrTuOZhfXAclMBn_E3OO_R5P_h_5?usp=sharing#scrollTo=Fske6lAf_28W" target="_blank">Click Here</a>
 
-Clustering k-means drive:
-<a href="https://drive.google.com/drive/folders/10_Mnmko7d8uXho4Wb8EK_cysZBI7hbfj" target="_blank">Click Here</a>
+File created by Niyati Mam (Python basics): <a href="https://colab.research.google.com/drive/1sv4b8IsVh85nunu-ePqvigVjeyWlSskd#scrollTo=_1MHBHfH6nDi" target="_blank">Click Here</a>
 
-Clustering k-means handson:
-<a href="https://colab.research.google.com/drive/1sphD5qVr0psvei8vG45OflflHhNE_vvT?usp=sharing" target="_blank">Click Here</a>
+Git doc file(notes) : <a href="https://docs.google.com/document/d/174b70tNV-loufr2P-AErszeJZuBo4pJjDtpAieK1AV8/edit?tab=t.0" target="_blank">Click Here</a>
 
-PCA drive:
-<a href="https://drive.google.com/drive/u/0/folders/14k5Bqa5Kit3uHr8QOSRPRQcXL6ou8I3i" target="_blank">Click Here</a>
-
-PCA collab:
-<a href="https://colab.research.google.com/drive/1TwchqNCGOme_XdaLdhfpi3vVTuHxQxq7#scrollTo=5UcJIeF85N-e" target="_blank">Click Here</a>
+Linux doc file (notes): <a href="https://docs.google.com/document/d/1KuoAdLJd8XFcNMltJBsOWKKMedFCb9aF9xUuaNZ-JEc/edit?tab=t.0" target="_blank">Click Here</a>
