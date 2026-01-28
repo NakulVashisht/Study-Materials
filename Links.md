@@ -1,3 +1,5 @@
+LDA Handson: <a href="https://colab.research.google.com/drive/1-kMw5WLbaYh7daPGK9A2VVfoUq_CIDi6?usp=sharing" target="_blank">Click Here</a>
+
 PCA Handson: <a href="https://colab.research.google.com/drive/1U5Gr9b2UPpQ7QnL1fCCYjd2GwmyvXZBp?usp=sharing" target="_blank">Click Here</a>
 
 PCA collab: <a href="https://colab.research.google.com/drive/1TwchqNCGOme_XdaLdhfpi3vVTuHxQxq7#scrollTo=5UcJIeF85N-e" target="_blank">Click Here</a>
