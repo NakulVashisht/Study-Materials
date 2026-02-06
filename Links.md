@@ -1,3 +1,5 @@
+Covid-19 Project: <a href="https://drive.google.com/drive/folders/1chPcNhpJYovz8P77AR4VX805bTJsmoXb" target="_blank">Click Here</a>
+
 Time Series Handson: <a href="https://colab.research.google.com/drive/1-PCKKGkpnifrKl9rVL7gkQuDQoVh0g8F?usp=sharing" target="_blank">Click Here</a>
 
 Datasets Drive: <a href="https://drive.google.com/drive/u/0/folders/173mOO6fKpX5qF1Ar081UgRTVCRFnF9Eu" target="_blank">Click Here</a>
