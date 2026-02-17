@@ -1,3 +1,5 @@
+SVM: <a href="https://colab.research.google.com/drive/1BWA-c5LUBzab9Y78HKSMm3KvSDHliNDY?usp=sharing" target="_blank">Click Here</a>
+
 Netflix project: <a href="https://colab.research.google.com/drive/1lW0SFZDyrceZVwr29OFXOakX0tC1MiKH?usp=sharing" target="_blank">Click Here</a>
 
 Netflix project dataset: <a href="https://drive.google.com/drive/folders/1IqaTG6_2K2g8DOQ6fDus6dwXrglZuGXL" target="_blank">Click Here</a>
