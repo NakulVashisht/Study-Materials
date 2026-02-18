@@ -1,3 +1,5 @@
+Credit Card Fraud Detection: <a href="https://colab.research.google.com/drive/1H9vHGxzn-Xpwd6CbCbyCU7JUNFw-e-Yf?usp=sharing" target="_blank">Click Here</a>
+
 SVM: <a href="https://colab.research.google.com/drive/1BWA-c5LUBzab9Y78HKSMm3KvSDHliNDY?usp=sharing" target="_blank">Click Here</a>
 
 Netflix project: <a href="https://colab.research.google.com/drive/1lW0SFZDyrceZVwr29OFXOakX0tC1MiKH?usp=sharing" target="_blank">Click Here</a>
