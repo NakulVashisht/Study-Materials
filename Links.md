@@ -1,4 +1,6 @@
-Flight Booking Project: <a href="https://colab.research.google.com/drive/1G8hN9pmCrCbDgQpMYcPLCoRx9-K_9K_u?usp=sharing" target="_blank">Click Here</a>
+Flight Booking Project 2: <a href="https://colab.research.google.com/drive/154D1Bz3TZvB1CroykmLwxS6DKWqzLW2A?usp=sharing" target="_blank">Click Here</a>
+
+Flight Booking Project 1: <a href="https://colab.research.google.com/drive/1G8hN9pmCrCbDgQpMYcPLCoRx9-K_9K_u?usp=sharing" target="_blank">Click Here</a>
 
 Credit Card Fraud Detection: <a href="https://colab.research.google.com/drive/1H9vHGxzn-Xpwd6CbCbyCU7JUNFw-e-Yf?usp=sharing" target="_blank">Click Here</a>
 
