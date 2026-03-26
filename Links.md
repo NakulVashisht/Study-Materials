@@ -1,3 +1,5 @@
+ML DL all resources drive 2: <a href="https://drive.google.com/drive/folders/1CvWLCfPYKnyHKxL2Z6QGJpR5gVcQwpeJ" target="_blank">Click Here</a>
+
 ANN Handson AJ1:<a href="https://colab.research.google.com/drive/1-phSEajoMAPSULeukTqow361paFkIGNQ" target="_blank">Click Here</a>
 
 Artificial Neural Networks Handson:<a href="https://colab.research.google.com/drive/1l2FIoRJmaF9vly-fszafogr9NKTNtMZD?usp=sharing" target="_blank">Click Here</a>
