@@ -1,3 +1,5 @@
+MS sql drive: <a href="https://drive.google.com/drive/u/0/folders/1EtP5LLn5ivhAt0zUwMA4wMhZQ2Yr1wGJ" target="_blank">Click Here</a>
+
 Power BI drive: <a href="https://drive.google.com/drive/u/1/folders/1ps_yvvKMlYfrwsv8jWHjuSPFNZo6N2yB" target="_blank">Click Here</a>
 
 ML DL all resources drive 2: <a href="https://drive.google.com/drive/folders/1CvWLCfPYKnyHKxL2Z6QGJpR5gVcQwpeJ" target="_blank">Click Here</a>
