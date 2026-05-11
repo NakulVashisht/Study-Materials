@@ -1,3 +1,6 @@
+ID: Divya@intellipaatsoft.onmicrosoft.com
+Password: Hadoop#4585
+
 Global Youtube Statistics dataset Power BI: <a href="https://docs.google.com/spreadsheets/d/1-o4m3OpiBD08idnfxW_Zg2yB7bIAllsx/edit?gid=598030674#gid=598030674" target="_blank">Click Here</a>
 
 MS sql drive: <a href="https://drive.google.com/drive/u/0/folders/1EtP5LLn5ivhAt0zUwMA4wMhZQ2Yr1wGJ" target="_blank">Click Here</a>
