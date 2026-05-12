@@ -1,3 +1,5 @@
+Gen AI: <a href="https://colab.research.google.com/drive/1duAqSPdUGpXoXhWLzhAknxnU75DiywdI#scrollTo=jZQobZs6EDLG" target="_blank">Click Here</a>
+
 ID: Divya@intellipaatsoft.onmicrosoft.com
 Password: Hadoop#4585
 
