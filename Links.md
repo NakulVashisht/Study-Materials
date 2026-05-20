@@ -6,7 +6,7 @@ Gen AI Hugging face: <a href="https://colab.research.google.com/drive/1zcuJ_G0I0
 
 Gen AI Encoder Decoder: <a href="https://colab.research.google.com/drive/12iSeszgP_seoTDPYpWTiHLGbpCgMj4o3?usp=sharing" target="_blank">Click Here</a>
 
-Gen AI: <a href="https://colab.research.google.com/drive/1duAqSPdUGpXoXhWLzhAknxnU75DiywdI#scrollTo=jZQobZs6EDLG" target="_blank">Click Here</a>
+Gen AI Prompting: <a href="https://colab.research.google.com/drive/1duAqSPdUGpXoXhWLzhAknxnU75DiywdI#scrollTo=jZQobZs6EDLG" target="_blank">Click Here</a>
 
 ID: Divya@intellipaatsoft.onmicrosoft.com
 Password: Hadoop#4585
