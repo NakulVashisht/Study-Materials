@@ -1,3 +1,5 @@
+SQL Drive: <a href="https://drive.google.com/drive/folders/1-fEbJJnEBaukkA_QpLQuxuMTT4Ujf0S5" target="_blank">Click Here</a>
+
 MLops Collab: <a href="https://colab.research.google.com/drive/1rxxp0_luIWCPx65dMdArCjpEIcRlX_On?usp=sharing#scrollTo=QycEhE-Am13S" target="_blank">Click Here</a>
 
 MLops Word: <a href="https://docs.google.com/document/d/1RnBgQfy_rQ170aLGgTqZ7_DXDcuPBt7dEpqH1Xwy6O0/edit?tab=t.0" target="_blank">Click Here</a>
