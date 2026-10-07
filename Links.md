@@ -59,7 +59,7 @@ Time Series collab: <a href="https://colab.research.google.com/drive/1BrYEd7VLQN
 
 LDA Handson: <a href="https://colab.research.google.com/drive/1-kMw5WLbaYh7daPGK9A2VVfoUq_CIDi6?usp=sharing" target="_blank">Click Here</a>
 
-Feature Engineering: <a href="https://github.com/shikharkumar13/Feature-Engineering-Complete/tree/main" target="_blank">Click Here</a>
+Feature Engineering: <a href="https://github.com/shikharkumar13" target="_blank">Click Here</a>
 
 PCA Handson: <a href="https://colab.research.google.com/drive/1U5Gr9b2UPpQ7QnL1fCCYjd2GwmyvXZBp?usp=sharing" target="_blank">Click Here</a>
 
